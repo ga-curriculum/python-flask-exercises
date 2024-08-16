@@ -1,4 +1,4 @@
-#1. Running a Flask Server
+#2.1. Running a Flask Server
 
 from flask import Flask 
 
@@ -12,7 +12,7 @@ if __name__ == '__main__':
     app.run()
 
 
-# 2. API Routes
+# 2.2. API Routes
 # Create each of the seven RESTful routes for "/reviews", responding with a string describing what the route's purpose is.
 # Note that, in order for these routes to be part of the app, you will have to move the app.run() conditional statement to be the very last piece of code in the app.
 

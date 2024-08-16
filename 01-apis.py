@@ -1,4 +1,4 @@
-# 7.1 Weather You Like It Or Not
+# 1.1 Weather You Like It Or Not
 # Complete the weather application below
 
 command = ""
@@ -19,7 +19,7 @@ while (command != "q"):
         # Then, loop through the list and display each day's result however you'd like
 
 
-# 7.2 API Scavenger Hunt
+# 1.2 API Scavenger Hunt
 # Use any API from the link below and make requests to answer as many questions as you can
 # https://github.com/public-apis/public-apis
 
